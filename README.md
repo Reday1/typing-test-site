@@ -1,4 +1,4 @@
-# typing-test-site
+<pre># typing-test-site
 making a basic typing test site with a random word dataset
 typing-test-app/
 ├── backend/
@@ -21,3 +21,4 @@ typing-test-app/
 ├── .env
 ├── package.json
 └── README.md
+</pre>
