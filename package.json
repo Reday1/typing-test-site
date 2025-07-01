@@ -1,0 +1,23 @@
+{
+  "name": "test_f",
+  "version": "0.0.1",
+  "description": "TESTING BRANCH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve":"browser-sync start --server --files '*.html *.js *.css' --browser 'google-chrom'" 	
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reday1/typing-test-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reday1/typing-test-site/issues"
+  },
+  "homepage": "https://github.com/Reday1/typing-test-site#readme",
+  "dependencies": {
+    "browser-sync": "^3.0.4"
+  }
+}
