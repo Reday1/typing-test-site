@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Reday1/typing-test-site#readme",
   "dependencies": {
     "browser-sync": "^3.0.4"
-  }
+  },
+  "type":"module"
 }
